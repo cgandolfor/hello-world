@@ -6,4 +6,5 @@ Ejercicio de ejemplo
 - [x] Opción A
 - [ ] Opción B
 - [ ] Opción C
+
 Esto es muy entretenido! :joy:
