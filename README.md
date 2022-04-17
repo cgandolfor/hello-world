@@ -1,5 +1,5 @@
 # hello-world
-Ejercicio de ejemplo
+Ejercicio
 **H**ola [^1]
 ### Este es un encabezado
 ~~El mundo es plano~~
